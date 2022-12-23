@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Oumellahni Nabil</h1>
-<h3 align="center">Back-End / Full-Stack Developer. Passionate about technology, and like to be creative. Interested in programming, Problem-solving. Open to new opportunities.</h3>
+<h3 align="center">Back-End / Full-Stack Developer..</h3>
 <p align='center'>
     <img src="https://gidigi.com/cdn/love.gif">
 </p>
