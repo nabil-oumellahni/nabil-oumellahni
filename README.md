@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30">, I'm Oumellahni Nabil</h1>
 <p align='center' style='margin: 16px 4px 8px;'>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=54A6FF&center=true&vCenter=true&multiline=true&width=710&height=70&lines=Welcome+to+my+GitHub+Profile;I+am+a+passionate+full-stack+software+engineer" alt="Welcome to my GitHub Profile. I am a passionate full-stack software engineer." />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=54A6FF&center=true&vCenter=true&multiline=true&width=710&height=70&lines=Welcome+to+my+GitHub+Profile;I+am+a+passionate+Full-Stackk+Software+Engineer" alt="Welcome to my GitHub Profile. I am a passionate Full-Stack Software Engineer." />
 </p>
 <p align='center'>
     <img src="https://gidigi.com/cdn/love.gif">
