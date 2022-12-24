@@ -7,7 +7,7 @@
 </p><br><br>
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=nabil-oumellahni&label=Profile%20views&color=0e75b6&style=flat" alt="nabil-oumellahni" /> </p><br><br>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=nabil-oumellahni&label=Profile%20views&color=0e75b6&style=flat" alt="nabil-oumellahni" /> </p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -31,7 +31,7 @@
     <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img src="https://github-profile-trophy.vercel.app/?username=nabil-oumellahni&theme=gruvbox&column=7&margin-w=2&margin-h=2&no-bg=true&no-frame=true" alt="github profile stats" />
     </a>
-</p><br><br>
+</p><br>
 
 <h3 align="center" style='margin: 0px 4px 8px; font-size: 24px;'>
     Stats
@@ -39,11 +39,11 @@
 
 <p align="center" style='margin: 8px 4px;'>
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nabil-oumellahni&show_icons=true&locale=en&layout=compact&theme=gruvbox&langs_count=10" alt="utkarshpathrabe" />
-</p><br><br>
+</p><br>
 
 <p align="center" style='margin: 8px 4px;'>
     <img src="https://github-readme-stats.vercel.app/api?username=nabil-oumellahni&show_icons=true&locale=en&theme=gruvbox" alt="utkarshpathrabe" />
-</p><br><br>
+</p><br>
 
 <p align="center" style='margin: 8px 4px;'>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=nabil-oumellahni&theme=gruvbox" alt="utkarshpathrabe" />
