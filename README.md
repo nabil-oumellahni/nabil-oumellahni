@@ -4,7 +4,6 @@
     <img src="https://gidigi.com/cdn/love.gif">
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nabil-oumellahni&show_icons=true&theme=radical)
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nabil-oumellahni&label=Profile%20views&color=0e75b6&style=flat" alt="nabil-oumellahni" /> </p>
 
