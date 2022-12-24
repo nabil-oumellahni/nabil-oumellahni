@@ -6,7 +6,13 @@
     <img src="https://gidigi.com/cdn/love.gif">
 </p>
 
+
+
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nabil-oumellahni&label=Profile%20views&color=0e75b6&style=flat" alt="nabil-oumellahni" /> </p>
+
+<!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nabil-oumellahni" alt="nabil-oumellahni" /></a> </p> -->
+
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -49,5 +55,6 @@
 </p>
 
 
-
+<p align="center" style='margin: 8px 4px;'>
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue)
+</p>
