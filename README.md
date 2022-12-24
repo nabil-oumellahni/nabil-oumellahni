@@ -55,6 +55,6 @@
 </p>
 
 
-<p align="center" style='margin: 8px 4px;'>
+<p align="center">
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue)
 </p>
