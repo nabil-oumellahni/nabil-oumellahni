@@ -53,8 +53,3 @@
 <p align="center" style='margin: 8px 4px;'>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=nabil-oumellahni&theme=gruvbox" alt="utkarshpathrabe" />
 </p>
-
-
-<div align="center">
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue)
-</div>
