@@ -34,3 +34,5 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nabil-oumellahni&layout=compact&langs_count=6&theme=react"/>
 </a>
 </p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=reda-hammada&" alt="reda-hammada" /></p>
