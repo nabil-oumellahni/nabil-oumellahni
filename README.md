@@ -38,10 +38,19 @@
     </a>
 </p>
 
-<p align="center">
-<a href="https://github.com/imadatyatalah">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nabil-oumellahni&show_icons=true&theme=react"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nabil-oumellahni&layout=compact&langs_count=6&theme=react"/>
-</a>
+<h3 align="center" style='margin: 0px 4px 8px; font-size: 24px;'>
+    Stats
+</h3>
+
+<p align="center" style='margin: 8px 4px;'>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nabil-oumellahni&show_icons=true&locale=en&layout=compact&theme=gruvbox&langs_count=10" alt="utkarshpathrabe" />
+</p>
+
+<p align="center" style='margin: 8px 4px;'>
+    <img src="https://github-readme-stats.vercel.app/api?username=nabil-oumellahni&show_icons=true&locale=en&theme=gruvbox" alt="utkarshpathrabe" />
+</p>
+
+<p align="center" style='margin: 8px 4px;'>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nabil-oumellahni&theme=gruvbox" alt="utkarshpathrabe" />
 </p>
 
