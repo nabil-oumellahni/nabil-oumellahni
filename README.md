@@ -35,4 +35,3 @@
 </a>
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=reda-hammada&" alt="reda-hammada" /></p>
