@@ -54,3 +54,12 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=nabil-oumellahni&theme=gruvbox" alt="utkarshpathrabe" />
 </p>
 
+![Profile Stats](https://activity-graph.herokuapp.com/graph?username=nabil-oumellahni&theme=chartreuse-dark)  
+
+![3D Profile](profile-3d-contrib/profile-night-rainbow.svg?sanitize=true)
+
+
+<p align="center" style='margin: 8px 4px;'>
+    <img src="./assets/sunrise.jpeg?sanitize=true" alt="utkarshpathrabe" />
+</p>
+
