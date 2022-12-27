@@ -12,16 +12,16 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/nabil-oumellahni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nabil-oumellahni" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/19034306" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19034306" height="30" width="40" /></a>
-<a href="https://kaggle.com/nabiloumellahni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="nabiloumellahni" height="30" width="40" /></a>
+<!-- <a href="https://stackoverflow.com/users/19034306" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19034306" height="30" width="40" /></a> -->
+<!-- <a href="https://kaggle.com/nabiloumellahni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="nabiloumellahni" height="30" width="40" /></a> -->
 <a href="https://fb.com/nabil.oumellahni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nabil.oumellahni" height="30" width="40" /></a>
 <a href="https://instagram.com/nabil_mlh_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nabil_mlh_" height="30" width="40" /></a>
 <a href="https://medium.com/@abil.oumellahni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@abil.oumellahni" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/oumellahni" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="oumellahni" height="30" width="40" /></a>
+<!-- <a href="https://www.codechef.com/users/oumellahni" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="oumellahni" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/nabil_oumellahni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nabil_oumellahni" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/oumellahni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="oumellahni" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/nabil-oumellahni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nabil-oumellahni" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/oumel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="oumel" height="30" width="40" /></a>
+<a href="https://www.topcoder.com/members/oumel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="oumel" height="30" width="40" /></a> -->
 </p><br>
 
 <h3 align="center">Languages and Tools:</h3>
