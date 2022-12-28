@@ -48,12 +48,3 @@
 <p align="center" style='margin: 8px 4px;'>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=nabil-oumellahni&theme=gruvbox" alt="utkarshpathrabe" />
 </p>
-
-
-
-
-
-
-<h2> Personal statistics: </h2>
-
-![Metrics](https://github.com/nabil-oumellahni/master/github-metrics.svg)
