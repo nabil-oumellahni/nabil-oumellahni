@@ -41,9 +41,9 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nabil-oumellahni&show_icons=true&locale=en&layout=compact&theme=gruvbox&langs_count=10" alt="utkarshpathrabe" />
 </p><br> -->
 
-<p align="center" style='margin: 8px 4px;'>
+<!-- <p align="center" style='margin: 8px 4px;'>
     <img src="https://github-readme-stats.vercel.app/api?username=nabil-oumellahni&show_icons=true&locale=en&theme=gruvbox" alt="utkarshpathrabe" />
-</p><br>
+</p><br> -->
 
 <p align="center" style='margin: 8px 4px;'>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=nabil-oumellahni&theme=gruvbox" alt="utkarshpathrabe" />
